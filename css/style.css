@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.logo{
+    margin: 10px 30px;
+}
+
+.header h3{
+    margin-top: 5px;
+    margin-left: 35px;
+    color: #aa3332;
+}
+
+.nav-bar .nav-links nav{
+    background-color: #aa3332;
+    height: 30vh;
+    width: 75vw;
+}
+
+.nav-links .bandeau{
+    width: 75vw;
+}
+
+li a{
+    text-decoration: none;
+    color: #cccccc;
+    margin: 15px 35px;
+}
+
+ul li{
+    list-style: none;
+    border-bottom: 1px dashed #ededed;
+    padding: 5px 0;
+}
+
+.main, .main-event, .main-coeur, .main-info , .main-presentation{
+    margin: 60px 35px;
+}
+
+.main .texte{
+    /* padding-top: 15px; */
+    padding-right: 290px;
+    margin-bottom: 75px;
+}
+
+.main h2{
+    margin-bottom: 10px;
+}
+
+.footer{
+    margin-top: 95px;
+}
+
+.footer p{
+    background-color: #aaaaaa;
+    height: 10.5vh;
+    width: 75vw;
+}
+
+/* ------------------------------------------page Event--------------------------- */
+.main-event h2, .pictures-poemes{
+    margin-bottom: 15px;
+}
+
+.pictures-poemes img{
+    margin-top: 10px;
+    height: 20vh;
+    padding: 0 10px;
+    margin-bottom: 70px;
+}
+
+.pictures-poemes .interrogation{
+    border: 1px solid #aaaaaa ;
+}
+
+table, th, td{
+    border: 1px solid #aa3332;
+    border-collapse: collapse;
+    padding: 0;
+}
+
+th,td{
+    padding: 5px 5px;
+}
+
+
+
+
+
